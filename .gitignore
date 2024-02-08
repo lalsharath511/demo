@@ -6,8 +6,6 @@ __pycache__/
 data/
 
 # Ignore specific Python files
-retriverpy
-test5py
 
 # Ignore virtual environment directories
 venv/
