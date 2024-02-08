@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore specific Python files
+retriverpy
+test5py
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE or editor specific files
+.idea/
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore OS or system-generated files
+.DS_Store
+Thumbs.db
