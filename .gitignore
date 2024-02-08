@@ -3,6 +3,7 @@
 
 # Ignore Python cache directories
 __pycache__/
+data/
 
 # Ignore specific Python files
 retriverpy
